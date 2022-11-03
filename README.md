@@ -29,7 +29,7 @@ Nesse projeto utilizei:
   🚀 Prévia do layout do projeto
 </h2>
 <p align="center">
-  <img src="./assets/preview.png"  width=90%">
+  <img src="./assets/preview.PNG"  width=90%">
 </p>
 
 ###### :pushpin: Você pode acessa-lo através desse <a href='https://kaduej.github.io/NLW--Copa/'>Link!</a>
